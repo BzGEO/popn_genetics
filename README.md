@@ -19,7 +19,7 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 - [Native American tribe teams up with genomicists to confirm link to iconic ancient site]( https://www.nature.com/articles/d41586-025-01362-y) [source: *Nature* article, 2025]
 - [Modern Blackfoot people descend from an ancient ice age lineage](https://www.science.org/content/article/modern-blackfoot-people-descend-ancient-ice-age-lineage) [source: *Science* news article, 2024]
 - [South-to-north migration preceded the advent of intensive farming in the Maya region](https://www.nature.com/articles/s41467-022-29158-y) [source: *Nature* article, 2022]
-    - Associated 🧬 [data](https://www.ebi.ac.uk/ena/browser/view/PRJEB49391)
+    - associated 🧬 [data](https://www.ebi.ac.uk/ena/browser/view/PRJEB49391)
         - [ADNA tools](https://github.com/DReichLab/ADNA-Tools) for processing that 🧬 data ⬆️
 - [Reconstructing the Deep Population History of Central and South America](https://www.sciencedirect.com/science/article/pii/S0092867418313801) [source: *Cell* article, 2018]
 
