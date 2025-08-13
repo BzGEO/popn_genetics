@@ -13,8 +13,19 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 - [Ancient DNA reveals Phoenicians’ surprising genetic ancestry](https://www.nature.com/articles/d41586-025-01283-w) [source: *Nature* article, 2025]
 - [Paternity Detective - Geneticist Maarten Larmuseau tackles a touchy question: How often are children genetically unrelated to their presumed fathers?](https://www.science.org/content/article/how-often-are-children-genetically-unrelated-their-presumed-fathers) [source: *Science* feature, 2025]
 - [How centuries of isolation shaped Greenlanders’ unique genetics](https://www.nature.com/articles/d41586-025-00443-2) [source: *Nature* article, 2025]
-- [Modern Blackfoot people descend from an ancient ice age lineage](https://www.science.org/content/article/modern-blackfoot-people-descend-ancient-ice-age-lineage) [source: *Science* news article, 2024]
+- [Scientists Found 6,000-Year-Old Human Remains. No Other People Share Their DNA](https://www.yahoo.com/news/scientists-found-6-000-old-133000412.html) [source: Popular Mechanics via Yahoo News, 2025]
+    - [A 6000-year-long genomic transect from the Bogotá Altiplano reveals multiple genetic shifts in the demographic history of Colombia](https://www.science.org/doi/10.1126/sciadv.ads6284) [source: *Science*, 2025]
 - [DNA from ancient graves reveals the culture of a mysterious nomadic people](https://www.nature.com/articles/d41586-024-01165-7) [source: *Nature* news article, 2024]
+- [Native American tribe teams up with genomicists to confirm link to iconic ancient site]( https://www.nature.com/articles/d41586-025-01362-y) [source: *Nature* article, 2025]
+- [Modern Blackfoot people descend from an ancient ice age lineage](https://www.science.org/content/article/modern-blackfoot-people-descend-ancient-ice-age-lineage) [source: *Science* news article, 2024]
+- [South-to-north migration preceded the advent of intensive farming in the Maya region](https://www.nature.com/articles/s41467-022-29158-y) [source: *Nature* article, 2022]
+    - Associated 🧬 [data](https://www.ebi.ac.uk/ena/browser/view/PRJEB49391)
+        - [ADNA tools](https://github.com/DReichLab/ADNA-Tools) for processing that 🧬 data ⬆️
+- [Reconstructing the Deep Population History of Central and South America](https://www.sciencedirect.com/science/article/pii/S0092867418313801) [source: *Cell* article, 2018]
+
+<!--
+- []() [source: , 202x]
+-->
 
 *Ancient humans*
 - [Who were the ancient Denisovans? Fossils reveal secrets about the mysterious humans](https://www.nature.com/articles/d41586-025-01549-3) [source: *Nature* news feature, 2025]
