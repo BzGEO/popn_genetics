@@ -7,6 +7,11 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 
 ## News articles
 
+<!--
+> [!IMPORTANT]
+> Random text
+-->
+
 *Semi-contemporary humans*
 - [1,300-year-old skeletons found in England had grandparents from sub-Saharan Africa, DNA studies reveal](https://www.livescience.com/archaeology/1-300-year-old-skeletons-found-in-england-had-grandparents-from-sub-saharan-africa-dna-studies-reveal?utm_source=Live+Audience&utm_campaign=48d5c9bc00-nature-briefing-daily-20250813) [source: Live Science, 2025]
 - [First human genome from ancient Egypt sequenced from 4,800-year-old teeth](https://www.nature.com/articles/d41586-025-02102-y) [source: *Nature* article, 2025]
