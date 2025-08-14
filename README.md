@@ -15,6 +15,8 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 *Modern humans*
 - [1,300-year-old skeletons found in England had grandparents from sub-Saharan Africa, DNA studies reveal](https://www.livescience.com/archaeology/1-300-year-old-skeletons-found-in-england-had-grandparents-from-sub-saharan-africa-dna-studies-reveal?utm_source=Live+Audience&utm_campaign=48d5c9bc00-nature-briefing-daily-20250813) [source: Live Science, 2025]
 - [First human genome from ancient Egypt sequenced from 4,800-year-old teeth](https://www.nature.com/articles/d41586-025-02102-y) [source: *Nature* article, 2025]
+- [Race, ethnicity don’t match genetic ancestry, according to a large U.S. study](https://www.science.org/content/article/race-ethnicity-don-t-match-genetic-ancestry-according-large-u-s-study) [source: *Science* article, 2025]
+    - [People's racial and ethnic identities don't reflect their genetic ancestry](https://www.livescience.com/health/genetics/peoples-racial-and-ethnic-identities-dont-reflect-their-genetic-ancestry) [source: Live Science, 2025]
 - [Ancient DNA reveals Phoenicians’ surprising genetic ancestry](https://www.nature.com/articles/d41586-025-01283-w) [source: *Nature* article, 2025]
 - [Paternity Detective - Geneticist Maarten Larmuseau tackles a touchy question: How often are children genetically unrelated to their presumed fathers?](https://www.science.org/content/article/how-often-are-children-genetically-unrelated-their-presumed-fathers) [source: *Science* feature, 2025]
 - [How centuries of isolation shaped Greenlanders’ unique genetics](https://www.nature.com/articles/d41586-025-00443-2) [source: *Nature* article, 2025]
