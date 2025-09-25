@@ -13,6 +13,7 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 -->
 
 *Modern humans*
+- [European colonizers altered the genetic ancestry of Indigenous peoples in South Africa, study reveals](https://phys.org/news/2025-09-european-colonizers-genetic-ancestry-indigenous.html) [source: Phys.org, 2025]
 - [Claims of pure bloodlines? Ancestral homelands? DNA science says no.](https://news.harvard.edu/gazette/story/2025/09/claims-of-pure-bloodlines-ancestral-homelands-dna-science-says-no/) [source: The Harvard Gazette, 2025]
   * "In Africa, studies have shown that different tribal and language groups have moved over time, displacing others and mixing genetically. Cameroon, an area associated with Bantu languages, for example, was occupied by an entirely different people 3,000 to 8,000 years ago, Reich said."
   * "Reich said... "People in Colombia have almost no local Y-chromosomes. They’re almost all European. And they have almost no European mitochondrial DNAs (inherited through the mother). They’re almost all Native American." "
