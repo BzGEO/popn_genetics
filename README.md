@@ -13,6 +13,7 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 -->
 
 *Modern humans*
+- [How Napoleon’s army met its doom: DNA reveals surprise illnesses had a role](https://www.nature.com/articles/d41586-025-03487-6) [source: *Nature*, 2025]
 - [European colonizers altered the genetic ancestry of Indigenous peoples in South Africa, study reveals](https://phys.org/news/2025-09-european-colonizers-genetic-ancestry-indigenous.html) [source: Phys.org, 2025]
 - [Claims of pure bloodlines? Ancestral homelands? DNA science says no.](https://news.harvard.edu/gazette/story/2025/09/claims-of-pure-bloodlines-ancestral-homelands-dna-science-says-no/) [source: The Harvard Gazette, 2025]
   * "In Africa, studies have shown that different tribal and language groups have moved over time, displacing others and mixing genetically. Cameroon, an area associated with Bantu languages, for example, was occupied by an entirely different people 3,000 to 8,000 years ago, Reich said."
