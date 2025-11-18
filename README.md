@@ -42,6 +42,8 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 - [First modern Britons had 'dark to black' skin, Cheddar Man DNA analysis reveals](https://www.theguardian.com/science/2018/feb/07/first-modern-britons-dark-black-skin-cheddar-man-dna-analysis-reveals) [source: The Guardian, 2018]
         - [Face of early Brit revealed](https://www.ucl.ac.uk/news/2018/feb/face-early-brit-revealed) [source: UCL, 2018]
         - [Scientists get their first look at ‘Cheddar Man,' one of England's oldest modern humans: Assumptions that the early British had lighter skin and hair were wrong, reconstruction suggests](https://www.science.org/content/article/scientists-get-their-first-look-cheddar-man-one-england-s-oldest-modern-humans) [source: *Science* article, 2018]
+        - [Cheddar Man: Mesolithic Britain's blue-eyed boy](https://www.nhm.ac.uk/discover/cheddar-man-mesolithic-britain-blue-eyed-boy.html) [source: UK Natural History Museum article, 2018]
+         - "Modern-day British people share approximately 10% of their genetic ancestry with the European population to which Cheddar Man belonged, but they aren't direct descendants."
 
 <!--
 - []() [source: , 202x]
