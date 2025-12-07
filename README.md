@@ -7,12 +7,20 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 
 ## News articles
 
+*Modern humans*
 <!--
-> [!IMPORTANT]
-> Random text
+- []() [source: ]
 -->
 
-*Modern humans*
+- [Two 7,000-year-old mummified women discovered with strange DNA profiles](https://www.earth.com/news/two-7000-year-old-mummified-women-discovered-with-strange-dna-profiles/) [source: *Earth.com* article, 2025]
+- [Ancient DNA Reveals That a Teenage Girl Chewed on This Wad of ‘Gum’ 10,500 Years Ago: Based on genetic material preserved in birch bark tar from Estonia, researchers found that the teen likely had brown hair and brown eyes](https://www.smithsonianmag.com/smart-news/ancient-dna-reveals-teenage-girl-chewed-on-a-wad-of-gum-10500-years-ago-180987763/) [source: *Smithsonian Magazine*, 2025]
+- [How the rise of DNA paternity tests is tearing communities apart: DNA testing is more accessible than ever in Uganda](https://www.independent.co.uk/news/world/africa/dna-paternity-testing-uganda-moses-kutoi-b2871100.html) [source: *Independent* news article, 20]
+- [Previously unknown lineage of humans discovered in Argentina](https://www.independent.co.uk/news/science/archaeology/human-lineage-argentina-archaeology-mystery-b2871103.html) [source: *Independent* news article, 2025]
+- [How scientists analyze ancient DNA from old bones: Centuries-old genetic material can solve historical mysteries, from lost species to what killed Napoleon’s army](https://www.popsci.com/science/how-dna-sequencing-works/) [source: *Popular Science* article, 2025]
+- [These Mysterious 6,000-Year Old Remains Might Tell The Story Of A Tribe That Disappeared](https://www.bgr.com/2016744/6000-year-old-human-body-story-tribe-disappeared/) [source: *BGR* news article, 2025]
+- [How Many People Have Ever Lived on Earth?](https://www.scientificamerican.com/article/how-many-people-have-ever-lived-on-earth/) [source: *Scientific American* article, 2025]
+- [Human DNA from Mongolian burial sites reveals dynamics of Bronze Age societies](https://phys.org/news/2025-09-human-dna-mongolian-burial-sites.html) [source: Phys.org, 2025]
+- [Newly Discovered Ancient Mummies Don’t Share DNA With Modern Humans](https://www.vice.com/en/article/newly-discovered-ancient-mummies-dont-share-dna-with-modern-humans/) [source: *Vice magazine* article, 2025]
 - [How Napoleon’s army met its doom: DNA reveals surprise illnesses had a role](https://www.nature.com/articles/d41586-025-03487-6) [source: *Nature*, 2025]
 - [European colonizers altered the genetic ancestry of Indigenous peoples in South Africa, study reveals](https://phys.org/news/2025-09-european-colonizers-genetic-ancestry-indigenous.html) [source: Phys.org, 2025]
 - [Claims of pure bloodlines? Ancestral homelands? DNA science says no.](https://news.harvard.edu/gazette/story/2025/09/claims-of-pure-bloodlines-ancestral-homelands-dna-science-says-no/) [source: The Harvard Gazette, 2025]
@@ -50,6 +58,7 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 -->
 
 *Ancient humans*
+- [A new late Neanderthal from Crimea reveals long-distance connections across Eurasia](https://www.pnas.org/doi/10.1073/pnas.2518974122) [source: PNAS, 2025]
 - [Who were the ancient Denisovans? Fossils reveal secrets about the mysterious humans](https://www.nature.com/articles/d41586-025-01549-3) [source: *Nature* news feature, 2025]
 - [Neanderthal–human baby-making was recent — and brief](https://www.nature.com/articles/d41586-024-01452-3) [source: *Nature* news article, 2024]
 
