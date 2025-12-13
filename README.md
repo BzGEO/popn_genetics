@@ -3,7 +3,7 @@
 [![Update](https://img.shields.io/github/last-commit/bzgeo/popn_genetics?label=repo%20last%20updated&style=flat-square)](https://github.com/BzGEO/popn_genetics)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bzgeo.popn_genetics)
 
-Miscellaneous resources related to human population genetics / genetic genealogy
+Miscellaneous resources related to human population genetics / genetic genealogy (*updated weekly*)
 
 ## News articles
 
