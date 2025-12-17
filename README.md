@@ -12,6 +12,8 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 - []() [source: ]
 -->
 
+- [Huge undersea wall dating from 5000 BC found in France](https://www.bbc.com/news/articles/crk7lg1j146o) [source: BBC article, 2025]
+
 - [Human gene maps are biased... study reveals](https://medicalxpress.com/news/2025-12-human-gene-biased-european-ancestries.html) [source: Medical Xpress, 2025]
 - [Two 7,000-year-old mummified women discovered with strange DNA profiles](https://www.earth.com/news/two-7000-year-old-mummified-women-discovered-with-strange-dna-profiles/) [source: *Earth.com* article, 2025]
 - [Ancient DNA Reveals That a Teenage Girl Chewed on This Wad of ‘Gum’ 10,500 Years Ago: Based on genetic material preserved in birch bark tar from Estonia, researchers found that the teen likely had brown hair and brown eyes](https://www.smithsonianmag.com/smart-news/ancient-dna-reveals-teenage-girl-chewed-on-a-wad-of-gum-10500-years-ago-180987763/) [source: *Smithsonian Magazine*, 2025]
