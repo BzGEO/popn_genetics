@@ -12,6 +12,7 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 - []() [source: ]
 -->
 
+- [Your DNA Might Say 'Viking' but Science Says Genetic Ancestry Tests Never Tell the Whole Story](https://www.zmescience.com/medicine/genetic/your-dna-might-say-viking-but-science-says-genetic-ancestry-tests-never-tell-the-whole-story/) [source: ZME Science, 2025]
 - [Huge undersea wall dating from 5000 BC found in France](https://www.bbc.com/news/articles/crk7lg1j146o) [source: BBC article, 2025]
 
 - [Human gene maps are biased... study reveals](https://medicalxpress.com/news/2025-12-human-gene-biased-european-ancestries.html) [source: Medical Xpress, 2025]
