@@ -14,6 +14,9 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 
 - [Bronze Age DNA from Calabria reveals a distinct mountain community](https://phys.org/news/2025-12-bronze-age-dna-calabria-reveals.html) [source: *Phys.org* article, 2025]
 - [Beachy Head Woman's origin story: DNA analysis reveals she was local to southern Britain](https://phys.org/news/2025-12-beachy-woman-story-dna-analysis.html) [source: *Phys.org* article, 2025]
+- [The Origin of the Etruscans: What Archaeological Evidence and Genetics Show](https://greekreporter.com/2025/12/17/origin-etruscans-genetics-archaeological-evidence/) [source: *Greek Reporter* article, 2025]
+- [Huge undersea wall dating from 5000 BC found in France](https://www.bbc.com/news/articles/crk7lg1j146o) [source: *BBC* article, 2025]
+- [The Hidden Denisovan Gene That Helped Humans Conquer the Americas](https://scitechdaily.com/the-hidden-denisovan-gene-that-helped-humans-conquer-the-americas/) [source: *SciTech Daily* article, 2025]
 - [Your DNA Might Say 'Viking' but Science Says Genetic Ancestry Tests Never Tell the Whole Story](https://www.zmescience.com/medicine/genetic/your-dna-might-say-viking-but-science-says-genetic-ancestry-tests-never-tell-the-whole-story/) [source: *ZME Science*, 2025]
 - [Huge undersea wall dating from 5000 BC found in France](https://www.bbc.com/news/articles/crk7lg1j146o) [source: BBC article, 2025]
 
