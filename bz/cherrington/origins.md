@@ -47,6 +47,15 @@
     * I particularly wonder about the Creole ancestors I had, who likely inhabited parts of the Belize River Valley, and what their lives were like, and what traditions and beliefs they held, in the 200+ years of inhabiting a specific corner of Central America.
     * One reason that the [concept of the] stories of my ancestors' lives fascinate me is that a tiny portion of my 2025 Christmas vacation has been spent listening to family stories told by my mother-in-law. I realize that a wealth of stories can be told about just a handful of individuals from one or two generations. My mother-in-law's recollections center on lives lived in the Departments of Jutiapa and Jalapa in southeastern Guatemala. Those tales focus on large families, occupations, achievements, inheritances, and marriage customs, among other things. Since those are not *my* stories to tell, I only provide a summary here.
     * I feel like I have been assembling puzzle pieces for a very long time, and I also have the sneaking suspicion that I will never fully complete the puzzle in my lifetime. I wonder if scientific advances - particularly in the area of *data science* - may help figure out who some of my unknown ancestors are.
+* **6 January 2026**: I have seriously delved into genealogy for the better part of twelve years. While I have made interesting discoveries almost every month, hitherto now, most of those discoveries have remained locked in my mind, but through this effort, I seek to document the things I have found over the past decade. Tidbits include:
+  
+   * Insights into the extended Heusner family
+   * Hidden parentage of **Avis Leacock** and a linkage with the Cape Verde islands
+   * Confirmation of the lore regarding the Mexican Caste War and **Mabel Peters**
+   * Discovery of Cherrington family linkages with the Belize River Valley, including my own "double-cousin" status with **June Heusner** and **Rose Smith**
+   * Discovery of Garifuna ancestry in the Cherrington family
+   * Discovery of linkages with the Hyde-Lindo family
+   * Discovery of linkages with various former classmates (J. Neal, R. Polonio, C. Rogers, A. Rowland)
 
 # References / Additional Reading
 
