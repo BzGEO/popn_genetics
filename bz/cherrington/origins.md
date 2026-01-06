@@ -40,3 +40,15 @@
     * One reason that the [concept of the] stories of my ancestors' lives fascinate me is that a tiny portion of my Christmas vacation has been spent listening to family stories told by my mother-in-law. I realize that a wealth of stories can be told about just a handful of individuals from one of two generations. My mother-in-law's recollections center on lives lived in the Departments of Jutiapa and Jalapa in southeastern Guatemala. Those tales focus on large families, occupations, achievements, inheritances, and marriage customs, among other things. Since those are not *my* stories to tell, I only provide a summary here.
 
 # References / Additional Reading
+
+* [A history of Belize: Nation in the making](https://www.amazon.com/history-Belize-Nation-making-Explorer/dp/976814209X)
+* [Becoming Belize: A History of an Outpost of Empire Searching for Identity, 1528-1823](https://www.amazon.com/dp/9766402469)
+* [The First Parish Register of Belize, 1794-1810, and the First Four Censuses, 1816-1826](https://www.amazon.com/Parish-Register-1794-1810-Censuses-1816-1826/dp/0806354828)
+* [Second Parish Registers of Belize, 1813-1827](https://www.amazon.com/Second-Parish-Registers-1813-1827-Newspaper/dp/0806355263)
+* [Third Parish Registers of Belize, 1828-1841](https://www.amazon.com/Registers-1828-1841-Yarborough-Newspapers-Advertiser/dp/0806355808)
+* [They Came to Belize, 1750-1810](https://www.amazon.com/They-Came-Belize-1750-1810-Compiled/dp/0806358408)
+* [The Life, Times, and Legacy of Dr. Karl Stanislaus Heusner](https://books.google.com.gt/books/about/The_Life_Times_Legacy_of_Dr_Karl_Stanisl.html?id=mHE7ngAACAAJ&redir_esc=y)
+* [The Garifuna, A nation across borders: Essays in Social Anthropology](https://www.amazon.com/Garifuna-nation-across-borders-Anthropology/dp/9768161132)
+* [Origin: A Genetic History of the Americas](https://www.amazon.com/Audible-Origin-Genetic-History-Americas/dp/B09KFC9DWG)
+* [Ancient Maya Cities of the Eastern Lowlands](https://www.amazon.com/Ancient-Cities-Eastern-Lowlands-World-ebook/dp/B01M24GL7Y)
+* [Warlords and maize men: A guide to the Maya sites of Belize](https://www.amazon.com/Warlords-maize-men-guide-Belize/dp/9686233067)
