@@ -49,10 +49,11 @@
     * I feel like I have been assembling puzzle pieces for a very long time, and I also have the sneaking suspicion that I will never fully complete the puzzle in my lifetime. I wonder if scientific advances - particularly in the area of *data science* - may help figure out who some of my unknown ancestors are.
 * **6 January 2026**: I have seriously delved into genealogy for the better part of twelve years. While I have made interesting discoveries almost every month, hitherto now, most of those discoveries have remained locked in my mind, but through this effort, I seek to document the things I have found over the past decade. Tidbits include:
   
-   * Insights into the extended Heusner family
+   * Insights into the ancestry of the extended Heusner family
    * Hidden parentage of **Avis Leacock** and a linkage with the Cape Verde islands
    * Confirmation of the lore regarding the Mexican Caste War and **Mabel Peters**
    * Discovery of Cherrington family linkages with the Belize River Valley, including my own "double-cousin" status with **June Heusner** and **Rose Smith**
+   * Discovery of the linkages of the Cherrington and Flowers families
    * Discovery of Garifuna ancestry in the Cherrington family
    * Discovery of linkages with the Hyde-Lindo family
    * Discovery of linkages with various former classmates (J. Neal, R. Polonio, C. Rogers, A. Rowland)
