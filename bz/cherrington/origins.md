@@ -3,6 +3,9 @@
 # About
 *Last updated: 5 January 2026*
 
+# Dedication
+*To Judy: May you take as much pride in your ancestors as I have.*
+
 ## Objectives
 * Provide insights into the histories of Belize's Cherrington and Leacock-Heusner families
 * Document those findings for the benefit of members of those families, and for Belizeans in general
@@ -29,6 +32,8 @@
 * **August 2014**: The Sunday I returned to France from Belize, my copies of the three Parish Registers of British Honduras (compiled by Sonia Bennett Murray) arrived. These documents added information to what I'd been able to discover during my first trip to Belize's national archives.
 * **September 2014**: By the end of the previous month, mirroring the work of Akeem Genus, I had created a small database of 102 Belizeans / descendants of Belizeans who had submitted samples to 23andMe. I and members of my family were related to 45.1% of the 94 Belizeans who were not close family members. Also, we had no idea how we were related to most of those Belizeans. It was interesting to find out that we were related to a member of Belize's prominent Hyde family, the implication being that we *might* be distant cousins to the larger **Hyde-Lindo family**.
 * **December 2014**: As a tribute to my late father, by the end of 2014, I had created a family tree of the Belizean Cherrington family using the information I had gathered from different sources, though mainly from Belize's archives and from information shared with me by one of my grandfather's kinsmen, **Ronald Cherrington** of Florida.
+* **June 2017**: I read the book [*They Came to Belize: 1750-1810*](https://www.amazon.com/They-Came-Belize-1750-1810-Compiled/dp/0806358408) by Sonia Bennett Murray, which among other things provided additional insights into my Flowers ancestors.
+* **May 2022**: I read the book [*Origin: A Genetic History of the Americas*](https://www.amazon.com/Audible-Origin-Genetic-History-Americas/dp/B09KFC9DWG) by Prof. Jennifer Raff. It was an interesting read, and it even referenced a few Maya genetic profiles from Belize, but [IMHO] it lacked a comprehensive timeline of what the various findings implied.
 * **11 September 2025**: On a work trip to Belize, I took my University of Alabama in Huntsville (UAH) supervisor to my Aunt Carolyn's house for dinner. She commented to my supervisor that I was our family's "keeper of the knowledge" and he laughed, as if this was some formal role.
 * **5 January 2026**: I have begun this GitHub page as a way to document the various things I have learned about my own family history over the years. **I hope that this survives in some form and that my own descendants [or perhaps other relatives] will find this useful.** I wonder about the stories of the people who came before me, whose genetic contributions gave rise to the physical body that I have.
     * I particularly wonder about the Creole ancestors I had, who likely inhabited parts of the Belize River Valley, and what their lives were like, and what traditions and beliefs they held, in the 200+ years of inhabiting a specific corner of Central America.
