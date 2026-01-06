@@ -4,7 +4,7 @@
 *Last updated: 5 January 2026*
 
 # Dedication
-*To Judy: May you take as much pride in your ancestors as I have.*
+*To Judy: May you take as much pride in your ancestors as I have. We are, after all, the results of our ancestors' hopes for us.*
 
 ## Objectives
 * Provide insights into the histories of Belize's Cherrington and Leacock-Heusner families
