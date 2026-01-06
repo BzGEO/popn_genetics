@@ -1,4 +1,4 @@
-# Belizean History through the Lens of a Family History
+# Belizean History: Through the Lens of Genealogy
 
 # About
 *Last updated: 5 January 2026*
