@@ -7,7 +7,7 @@
 *To Judy: May you take as much pride in your ancestors as I have. We are, after all, the results of our their hopes for us, their lives, and their sacrifices.*
 
 ## Objectives
-* Provide insights into the histories of Belize's Cherrington and Leacock-Heusner families
+* Provide insights into the histories of Belize's **Cherrington** and **Leacock-Heusner** families
 * Document those findings for the benefit of members of those families, and for Belizeans in general
 
 ## Chronology
