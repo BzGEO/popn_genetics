@@ -7,22 +7,22 @@
 
 **Facts**
 **[Belizean population](https://docs.google.com/spreadsheets/d/0B_eQWO64TxDbNnNfbFpSalZCYU0/edit?resourcekey=0-YJ0wS6Npc1_m2bOcyXGUXQ&gid=348434329#gid=348434329)**
-* 1786: ~700 inhabitants in the Bay Colony, prior to the arrival of people from the Mosquito Shore (source: Bennett, 2017)
-* 1790: ~2,915 inhabitants in Belize (Bay Colony) -> ~2,212 people originally from the Mosquito Shore, so a ratio of 3:1 (Mosquito Shore: Bay Colony) (source: Bennett, 2017)
-* 1816: 3,824 inhabitants (source: Hadel, 1974)
-* 1823: 4,107 inhabitants (source: Hadel, 1974)
-* 1891: 31,471 inhabitants (source: British Honduras Census, 1901)
-* 1901: 37,179 inhabitants (source: British Honduras Census, 1901)
-* 1921: 45,317 inhabitants (source: Statistical Institute of Belize, 2012)
-* 1931: 51,347 inhabitants (source: Statistical Institute of Belize, 2012)
-* 1946: 59,220 inhabitants (source: Statistical Institute of Belize, 2012)
-* 1960: 90,505 inhabitants (source: Statistical Institute of Belize, 2012)
-* 1970: 119,934 inhabitants (source: Statistical Institute of Belize, 2012)
-* 1980: 145,353 inhabitants (source: Statistical Institute of Belize, 2012)
-* 1991: 189,392 inhabitants (source: Statistical Institute of Belize, 2012)
-* 2000: 246,538 inhabitants (source: Statistical Institute of Belize, 2012)
-* 2010: 322,453 inhabitants (source: Statistical Institute of Belize, 2012)
-* 2017: 387,879 inhabitants (source: Statistical Institute of Belize, 2017)
+* **1786**: ~700 inhabitants in the Bay Colony, prior to the arrival of people from the Mosquito Shore (source: Bennett, 2017)
+* **1790**: ~2,915 inhabitants in Belize (Bay Colony) -> *~2,212 people originally from the Mosquito Shore, so a ratio of 3:1 (Mosquito Shore: Bay Colony)* (source: Bennett, 2017)
+* **1816**: 3,824 inhabitants (source: Hadel, 1974)
+* **1823**: 4,107 inhabitants (source: Hadel, 1974)
+* **1891**: 31,471 inhabitants (source: British Honduras Census, 1901)
+* **1901**: 37,179 inhabitants (source: British Honduras Census, 1901)
+* **1921**: 45,317 inhabitants (source: Statistical Institute of Belize, 2012)
+* **1931**: 51,347 inhabitants (source: Statistical Institute of Belize, 2012)
+* **1946**: 59,220 inhabitants (source: Statistical Institute of Belize, 2012)
+* **1960**: 90,505 inhabitants (source: Statistical Institute of Belize, 2012)
+* **1970**: 119,934 inhabitants (source: Statistical Institute of Belize, 2012)
+* **1980**: 145,353 inhabitants (source: Statistical Institute of Belize, 2012)
+* **1991**: 189,392 inhabitants (source: Statistical Institute of Belize, 2012)
+* **2000**: 246,538 inhabitants (source: Statistical Institute of Belize, 2012)
+* **2010**: 322,453 inhabitants (source: Statistical Institute of Belize, 2012)
+* **2017**: 387,879 inhabitants (source: Statistical Institute of Belize, 2017)
 
 **Flowers population**
 * 1812: 50 individuals (of approx. 3,000 inhabitants) -> assume 25 men, 25 women
