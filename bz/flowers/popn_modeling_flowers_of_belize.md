@@ -30,4 +30,7 @@
 * 1812: 50 individuals (of approx. 3,000 inhabitants) -> assume 25 men, 25 women
 * 2014: ~2,487 individuals (of approx. 352,266 individuals) -> 0.706% of total population
 
+**Flowers population: Modeling**
+* A simple model tracking the growth of the Flowers family has been constructed, estimating that the family doubles every two generations, taking the population from approximately 50 individuals in 1800 to approx. 2,400 individuals by 2020. For each generation, we estimate a male / female sex ratio of 1:1. Only the male members of the population are estimated to pass along the Flowers surname.
+
 **References**
