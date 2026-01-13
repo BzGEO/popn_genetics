@@ -42,3 +42,5 @@
 * Organize the various spreadsheets and documents, mainly generated in 2014
 
 **References**
+
+* Belize Archives & Records Service (BARS). 2026. Census Index. Web page. https://archives.gov.bz/census-index/. Accessed 01/2026. 
