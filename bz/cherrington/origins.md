@@ -1,7 +1,7 @@
 # Belizean History: Through the Lens of Genealogy
 
 ## About
-*Last updated: 5 January 2026*
+*Last updated: 13 January 2026*
 
 ## Dedication
 *To Judy: May you take as much pride in your ancestors as I have. We are, after all, the results of our their hopes for us, their lives, and their sacrifices.*
