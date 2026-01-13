@@ -1,9 +1,9 @@
 # Belizean History: Through the Lens of Genealogy
 
-# About
+## About
 *Last updated: 5 January 2026*
 
-# Dedication
+## Dedication
 *To Judy: May you take as much pride in your ancestors as I have. We are, after all, the results of our their hopes for us, their lives, and their sacrifices.*
 
 ## Objectives
@@ -58,7 +58,10 @@
    * Discovery of linkages with the Hyde-Lindo family
    * Discovery of linkages with various former classmates (J. Neal, R. Polonio, C. Rogers, A. Rowland)
 
-# References / Additional Reading
+## Other
+* Private document [collection](https://drive.google.com/drive/u/1/folders/1DkRPMzEv1BYc6f1uUNsSoednpGmnEhVH)
+
+## References / Additional Reading
 
 * R. Leslie (Ed.) (2016): [A History of Belize: Nation in the Making](https://www.amazon.com/history-Belize-Nation-making-Explorer/dp/976814209X)
 * M.C. Campbell (2011): [Becoming Belize: A History of an Outpost of Empire Searching for Identity, 1528-1823](https://www.amazon.com/dp/9766402469)
