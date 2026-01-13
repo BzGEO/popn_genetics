@@ -1,5 +1,5 @@
 # Population Modeling: the Flowers Family of Belize
-*Last updated: 11.01.2026*
+*Last updated: 13.01.2026*
 
 **Research question:** How do we model the growth of the Flowers family from a small founder population in 1787 to approximately 2,500 individuals with that surname in 2014?
 
@@ -24,6 +24,11 @@
 * **2010**: 322,453 inhabitants
 * **2017**: 387,879 inhabitants
 
+***Considerations**: Important junctures
+  * 1787: Arrival of the evacuees from the Mosquito Shore settlements (present-day Honduras and Nicaragua)
+  * c. 1900: Arrival of refugees from the Caste War in Mexico
+  * c. 1985: Arrival of refugees from the Central American civil wars (Guatemala, El Salvador, Honduras, Nicaragua)
+
 ***Sources**: 1786 and 1790 data from Bennett (2017), 1816 and 1823 data from Hadel (1974), 1891 and 1901 data from the British Honduras Census (1901), 1921-2010 data from the Statistical Institute of Belize (2012), and 2017 data from the Statistical Institute of Belize (2017)*
 
 **Flowers population**
@@ -31,6 +36,9 @@
 * 2014: ~2,487 individuals (of approx. 352,266 individuals) -> 0.706% of total population
 
 **Flowers population: Modeling**
-* A simple model tracking the growth of the Flowers family has been constructed, estimating that the family doubles every two generations, taking the population from approximately 50 individuals in 1800 to approx. 2,400 individuals by 2020. For each generation, we estimate a male / female sex ratio of 1:1. Only the male members of the population are estimated to pass along the Flowers surname.
+* A [simple model](https://docs.google.com/spreadsheets/d/1toAYGXuRx3_Ak5Y6yA3Kb7PinnANQxed/edit?usp=sharing&ouid=105196094871740597688&rtpof=true&sd=true) tracking the growth of the Flowers family has been constructed, estimating that the family doubles every two generations, taking the population from approximately 50 individuals in 1800 to approx. 2,400 individuals by 2020. For each generation, we estimate a male / female sex ratio of 1:1. Only the male members of the population are estimated to pass along the Flowers surname.
+
+**Pending activities**
+* Organize the various spreadsheets and documents, mainly generated in 2014
 
 **References**
