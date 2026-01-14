@@ -58,6 +58,8 @@
    * Discovery of linkages with the Hyde-Lindo family
    * Discovery of linkages with various former classmates (J. Neal, R. Polonio, C. Rogers, A. Rowland)
 
+* **12 January 2026**: I discovered that my kinsman, Michael "Mike" Heusner had passed away on Saturday, 10th January 2026. Along with his cousins June Heusner and Bruce McDonald, Mike was one of the principal keepers of the Heusner family lore. In the 20+ years that I had been interacting with Mike - since my first interaction with him at an [NPAPSP] environmental workshop in July 2004 - Mike had shared with me many family history tales. He was also a kind human being, and a patriot. His wit and humor will be missed.
+
 ## Other
 * Private document [collection](https://drive.google.com/drive/u/1/folders/1DkRPMzEv1BYc6f1uUNsSoednpGmnEhVH)
 
