@@ -5,7 +5,8 @@
 
 *Assumptions:* The ~2,500 individuals in 2014 *with the surname Flowers* are only a fraction of the people descended from the original founder population. That is, because of how surnames are passed on, many more people will be descended from a founder population than possess their surnames.
 
-**Facts**
+## Facts
+
 **[Belizean population](https://docs.google.com/spreadsheets/d/0B_eQWO64TxDbNnNfbFpSalZCYU0/edit?resourcekey=0-YJ0wS6Npc1_m2bOcyXGUXQ&gid=348434329#gid=348434329)**
 * **1786**: ~700 inhabitants in the Bay Colony, prior to the arrival of people from the Mosquito Shore
 * **1790**: ~2,915 inhabitants in Belize (Bay Colony) -> *~2,212 people originally from the Mosquito Shore, so a ratio of 3:1 (Mosquito Shore: Bay Colony)*
@@ -45,7 +46,7 @@
 **Pending activities**
 * Organize the various spreadsheets and documents, mainly generated in 2014
 
-**References**
+## References
 
 * Belize Archives & Records Service (BARS). 2026. Census Index. Web page. https://archives.gov.bz/census-index/. Accessed 01/2026.
 * Hadel, J. 1974. Three Early Censuses - 1816, 1820, 1823 - of Belize. Belize Institute for Social Research and Action (BISRA). Issue no. 1. Belize City, Belize. 22 pp. https://drive.google.com/file/d/0B_eQWO64TxDbTVBCd094VG9FZ3M.
