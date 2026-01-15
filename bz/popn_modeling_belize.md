@@ -40,7 +40,7 @@
 * **1812**: 50 individuals (of approx. 3,000 inhabitants) -> assume 25 men, 25 women
 * **2014**: ~2,487 individuals (of approx. 352,266 individuals) -> 0.706% of total population -> SIB official estimates (2024) for 2014 were 349,169 inhabitants
 
-**Flowers population: 1797 public meeting**
+**Flowers population: pivotal 6 June 1797 public meeting**
 * From Bennett Murray (2017), p. 370: Thomas Flowers, William Flowers, Caesar Flowers, Adam Flowers -> members of the "Flowers Bank Fourteen" (also known as the "Flowers Bank Negroes") -> see:
   * News story from 15 June 2009 (Channel 7 News): https://www.7newsbelize.com/sstory.php?nid=14241
   * News story from 14 August 2025 (Channel 5 News): https://www.greaterbelize.com/flowers-bank-fourteen-the-votes-that-saved-belize/
