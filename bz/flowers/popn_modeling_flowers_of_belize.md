@@ -4,12 +4,12 @@
 ## Research questions
 * How do we model the growth of the Flowers family from a small founder population in 1787 to approximately 2,500 individuals with that surname in 2014?
 
-## Assumptions
+### Assumptions
 * The ~2,500 individuals in 2014 *with the surname Flowers* are only a fraction of the people descended from the original founder population. That is, because of how surnames are passed on, many more people will be descended from a founder population than possess their surnames.
 
 ## Population statistics
 
-## National population
+### National population
 **Belizean [population](https://docs.google.com/spreadsheets/d/0B_eQWO64TxDbNnNfbFpSalZCYU0/edit?resourcekey=0-YJ0wS6Npc1_m2bOcyXGUXQ&gid=348434329#gid=348434329)**
 * **1786**: ~700 inhabitants in the Bay Colony, prior to the arrival of people from the Mosquito Shore
 * **1790**: ~2,915 inhabitants in Belize (Bay Colony) -> *~2,212 people originally from the Mosquito Shore, so a ratio of 3:1 (Mosquito Shore: Bay Colony)*
@@ -36,12 +36,12 @@
 
 ***Sources**: 1786 and 1790 data from Bennett (2017), 1816 and 1823 data from Hadel (1974), 1891 and 1901 data from the British Honduras Census (1901), 1921-2010 data from the Statistical Institute of Belize (2012), 2017 data from the Statistical Institute of Belize (2017), and 2022 data from the Statistical Institute of Belize (2024)*
 
-## Population: Flowers family
+### Population: Flowers family
 * 1812: 50 individuals (of approx. 3,000 inhabitants) -> assume 25 men, 25 women
 * 2014: ~2,487 individuals (of approx. 352,266 individuals) -> 0.706% of total population -> SIB official estimates (2024) for 2014 were 349,169 inhabitants
 
 **Flowers population: 1816 Census**
-* From Bennett Murray (2010), pp. 52-86: Heads of households: Adam Flowers, Caesar Flowers, William Flowers, John Flowers, Addse Flowers, Thomas Flowers (father of Phoebe), Jean Flowers, 
+* From Bennett Murray (2010), pp. 52-86: Heads of households: Adam Flowers, Caesar Flowers, William Flowers, John Flowers, Addse Flowers, Thomas Flowers (father of Phoebe), Jean Flowers
 
 **Flowers population: Modeling**
 * A [simple model](https://docs.google.com/spreadsheets/d/1toAYGXuRx3_Ak5Y6yA3Kb7PinnANQxed/edit?usp=sharing&ouid=105196094871740597688&rtpof=true&sd=true) tracking the growth of the Flowers family has been constructed, estimating that the family doubles every two generations, taking the population from approximately 50 individuals in 1800 to approx. 2,400 individuals by 2020. For each generation, we estimate a male / female sex ratio of 1:1. Only the male members of the population are estimated to pass along the Flowers surname.
