@@ -34,7 +34,7 @@
 
 **Flowers population**
 * 1812: 50 individuals (of approx. 3,000 inhabitants) -> assume 25 men, 25 women
-* 2014: ~2,487 individuals (of approx. 352,266 individuals) -> 0.706% of total population
+* 2014: ~2,487 individuals (of approx. 352,266 individuals) -> 0.706% of total population -> SIB official estimates (2024) for 2014 were 349,169 inhabitants
 
 **Flowers population: 1816 Census**
 * From Bennett Murray (2010), pp. 52-86: Heads of households: Adam Flowers, Caesar Flowers, William Flowers, John Flowers, Addse Flowers, Thomas Flowers (father of Phoebe), Jean Flowers, 
