@@ -42,8 +42,8 @@
 
 **Flowers population: 1797 public meeting**
 * From Bennett Murray (2017), p. 370: Thomas Flowers, William Flowers, Caesar Flowers, Adam Flowers -> members of the "Flowers Bank Fourteen" (also known as the "Flowers Bank Negroes") -> see:
- * https://www.greaterbelize.com/flowers-bank-fourteen-the-votes-that-saved-belize/
- * https://www.7newsbelize.com/sstory.php?nid=14241
+  * https://www.greaterbelize.com/flowers-bank-fourteen-the-votes-that-saved-belize/
+  * https://www.7newsbelize.com/sstory.php?nid=14241
 
 **Flowers population: 1816 Census**
 * From Bennett Murray (2010), pp. 52-86: Heads of households: Adam Flowers, Caesar Flowers, William Flowers, John Flowers, Addse Flowers, Thomas Flowers (father of Phoebe), Jean Flowers
