@@ -46,4 +46,7 @@
 
 **References**
 
-* Belize Archives & Records Service (BARS). 2026. Census Index. Web page. https://archives.gov.bz/census-index/. Accessed 01/2026. 
+* Belize Archives & Records Service (BARS). 2026. Census Index. Web page. https://archives.gov.bz/census-index/. Accessed 01/2026.
+* Hadel, J. 1974. Three Early Censuses - 1816, 1820, 1823 - of Belize. Belize Institute for Social Research and Action (BISRA). Issue no. 1. Belize City, Belize. 22 pp. https://drive.google.com/file/d/0B_eQWO64TxDbTVBCd094VG9FZ3M.
+* Statistical Institute of Belize (SIB). 2024. Census Key Findings Launch. Statistical Institute of Belize. Belmopan, Belize. PowerPoint presentation. 48 pp. https://sib.org.bz/wp-content/uploads/CensusLaunch2022.pdf. Accessed 01/2026.
+ 
