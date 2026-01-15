@@ -23,13 +23,14 @@
 * **2000**: 246,538 inhabitants
 * **2010**: 322,453 inhabitants
 * **2017**: 387,879 inhabitants
+* **2022**: 397,483 inhabitants
 
 ***Considerations**: Important junctures
   * 1787: Arrival of the evacuees from the Mosquito Shore settlements (present-day Honduras and Nicaragua)
   * c. 1900: Arrival of refugees from the Caste War in Mexico
   * c. 1985: Arrival of refugees from the Central American civil wars (Guatemala, El Salvador, Honduras, Nicaragua)
 
-***Sources**: 1786 and 1790 data from Bennett (2017), 1816 and 1823 data from Hadel (1974), 1891 and 1901 data from the British Honduras Census (1901), 1921-2010 data from the Statistical Institute of Belize (2012), and 2017 data from the Statistical Institute of Belize (2017)*
+***Sources**: 1786 and 1790 data from Bennett (2017), 1816 and 1823 data from Hadel (1974), 1891 and 1901 data from the British Honduras Census (1901), 1921-2010 data from the Statistical Institute of Belize (2012), 2017 data from the Statistical Institute of Belize (2017), and 2022 data from the Statistical Institute of Belize (2024)*
 
 **Flowers population**
 * 1812: 50 individuals (of approx. 3,000 inhabitants) -> assume 25 men, 25 women
