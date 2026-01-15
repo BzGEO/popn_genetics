@@ -1,15 +1,15 @@
 # Population Modeling: the Flowers Family of Belize
 *Last updated: 15.01.2026*
 
-# Research questions
+## Research questions
 * How do we model the growth of the Flowers family from a small founder population in 1787 to approximately 2,500 individuals with that surname in 2014?
 
-# Assumptions
+## Assumptions
 * The ~2,500 individuals in 2014 *with the surname Flowers* are only a fraction of the people descended from the original founder population. That is, because of how surnames are passed on, many more people will be descended from a founder population than possess their surnames.
 
 ## Population statistics
 
-**[Belizean population](https://docs.google.com/spreadsheets/d/0B_eQWO64TxDbNnNfbFpSalZCYU0/edit?resourcekey=0-YJ0wS6Npc1_m2bOcyXGUXQ&gid=348434329#gid=348434329)**
+**Belize national [population](https://docs.google.com/spreadsheets/d/0B_eQWO64TxDbNnNfbFpSalZCYU0/edit?resourcekey=0-YJ0wS6Npc1_m2bOcyXGUXQ&gid=348434329#gid=348434329)**
 * **1786**: ~700 inhabitants in the Bay Colony, prior to the arrival of people from the Mosquito Shore
 * **1790**: ~2,915 inhabitants in Belize (Bay Colony) -> *~2,212 people originally from the Mosquito Shore, so a ratio of 3:1 (Mosquito Shore: Bay Colony)*
 * **1816**: 3,824 inhabitants
