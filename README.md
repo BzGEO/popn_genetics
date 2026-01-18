@@ -50,8 +50,9 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 - [Modern Blackfoot people descend from an ancient ice age lineage](https://www.science.org/content/article/modern-blackfoot-people-descend-ancient-ice-age-lineage) [source: *Science* news article, 2024]
 - [5000-year-old ‘Iceman’ had dark skin and a receding hairline](https://www.science.org/content/article/otzi-tyrolean-iceman-had-dark-skin-and-receding-hairline) [source: *Science*, 2023]
      - [High-coverage genome of the Tyrolean Iceman reveals unusually high Anatolian farmer ancestry](https://www.cell.com/cell-genomics/fulltext/S2666-979X(23)00174-X) [source: *Cell* article, 2023]
-- [South-to-north migration preceded the advent of intensive farming in the Maya region](https://www.nature.com/articles/s41467-022-29158-y) [source: *Nature* article, 2022]
-    - associated 🧬 [data](https://www.ebi.ac.uk/ena/browser/view/PRJEB49391)
+- [South-to-north migration preceded the advent of intensive farming in the Maya region](https://www.nature.com/articles/s41467-022-29158-y) [source: *Nature* article (Kennett et al. 2022), 2022]
+    - associated 🧬 [data](https://www.ebi.ac.uk/ena/browser/view/PRJEB49391) at European Nucleotide Archive
+    - associated 🧬 [data](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-022-29158-y/MediaObjects/41467_2022_29158_MOESM5_ESM.zip) in .GENO and .SNP formats
         - [ADNA tools](https://github.com/DReichLab/ADNA-Tools) for processing that 🧬 data ⬆️
 - [Largest Human Family Tree Identifies Nearly 27 Million Ancestors: Researchers create massive genealogical network dating back 100,000 years](https://www.smithsonianmag.com/smart-news/largest-human-genomic-family-tree-identifies-nealy-27-million-ancestors-180979657/) [source: Smithsonian Magazine, 2022]
         - Video [animation](https://www.youtube.com/watch?v=Cwj0DRUrKXw) 🎥
