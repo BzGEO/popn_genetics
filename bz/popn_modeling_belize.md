@@ -1,5 +1,5 @@
 # Population Modeling: the Flowers Family of Belize
-*Last updated: 15.01.2026*
+*Last updated: 22.01.2026*
 
 ## Research questions
 * How do we model the growth of the Flowers family from a small founder population in 1787 to approximately 2,500 individuals with that surname in 2014?
