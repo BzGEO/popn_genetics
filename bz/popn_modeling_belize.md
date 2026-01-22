@@ -14,7 +14,7 @@
 
 | Year | Inhabitants | Notes |
 | --- | --- | --- |
-| **1786** | ~700 | *Prior to the arrival of the evacuees from the Mosquito Shore|
+| **1786** | ~700 | *just prior to the arrival of the evacuees from the Mosquito Shore* |
 | **1790** | ~2,915 | *~2,212 people originally from the Mosquito Shore, so a ratio of 3:1 (Mosquito Shore: Bay Colony)*|
 | **1816** | 3,824 | |
 | **1823** | 4,107 | |
