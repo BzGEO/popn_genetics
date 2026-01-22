@@ -11,23 +11,26 @@
 
 ### National population
 **Belizean [population](https://docs.google.com/spreadsheets/d/0B_eQWO64TxDbNnNfbFpSalZCYU0/edit?resourcekey=0-YJ0wS6Npc1_m2bOcyXGUXQ&gid=348434329#gid=348434329)**
-* **1786**: ~700 inhabitants in the Bay Colony, prior to the arrival of people from the Mosquito Shore
-* **1790**: ~2,915 inhabitants in Belize (Bay Colony) -> *~2,212 people originally from the Mosquito Shore, so a ratio of 3:1 (Mosquito Shore: Bay Colony)*
-* **1816**: 3,824 inhabitants
-* **1823**: 4,107 inhabitants
-* **1891**: 31,471 inhabitants
-* **1901**: 37,179 inhabitants
-* **1921**: 45,317 inhabitants
-* **1931**: 51,347 inhabitants
-* **1946**: 59,220 inhabitants
-* **1960**: 90,505 inhabitants
-* **1970**: 119,934 inhabitants
-* **1980**: 145,353 inhabitants
-* **1991**: 189,392 inhabitants
-* **2000**: 246,538 inhabitants
-* **2010**: 322,453 inhabitants
-* **2017**: 387,879 inhabitants
-* **2022**: 397,483 inhabitants
+
+| Year | Inhabitants | Notes |
+| --- | --- | --- |
+| **1786** | ~700 | *Prior to the arrival of the evacuees from the Mosquito Shore|
+| **1790** | ~2,915 | *~2,212 people originally from the Mosquito Shore, so a ratio of 3:1 (Mosquito Shore: Bay Colony)*|
+| **1816** | 3,824 | |
+| **1823** | 4,107 | |
+| **1891** | 31,471 | *following the influx of refugees from the Caste War, which begins in 1847*|
+| **1901** | 37,179 | |
+| **1921** | 45,317 | |
+| **1931** | 51,347 | |
+| **1946** | 59,220 | |
+| **1960** | 90,505 | |
+| **1970** | 119,934 | |
+| **1980** | 145,353 | |
+| **1991** | 189,392 | *following the influx of refugees from C. American civil wars* |
+| **2000** | 246,538 | |
+| **2010** | 322,453 | |
+| **2017** | 387,879 | |
+| **2022** | 397,483 | |
 
 ***Considerations**: Important junctures
   * **1787**: Arrival of the evacuees from the Mosquito Shore settlements (present-day Honduras and Nicaragua)
