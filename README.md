@@ -12,6 +12,7 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 - []() [source: ]
 -->
 
+- [Ancient Arabians](https://share.google/UdzZDRFsvnUHwoyQP) [source: *The Ancients* podcast, 2026]
 - [Bronze Age DNA from Calabria reveals a distinct mountain community](https://phys.org/news/2025-12-bronze-age-dna-calabria-reveals.html) [source: *Phys.org* article, 2025]
 - [Beachy Head Woman's origin story: DNA analysis reveals she was local to southern Britain](https://phys.org/news/2025-12-beachy-woman-story-dna-analysis.html) [source: *Phys.org* article, 2025]
 - [The Origin of the Etruscans: What Archaeological Evidence and Genetics Show](https://greekreporter.com/2025/12/17/origin-etruscans-genetics-archaeological-evidence/) [source: *Greek Reporter* article, 2025]
