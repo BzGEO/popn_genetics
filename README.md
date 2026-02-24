@@ -12,6 +12,8 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 - []() [source: ]
 -->
 
+- [High-resolution genomic history of early medieval Europe](https://www.nature.com/articles/s41586-024-08275-2) [source: *Nature*, 2025]
+- [Ancient DNA connects large-scale migration with the spread of Slavs](https://www.nature.com/articles/s41586-025-09437-6) [source: *Nature*, 2025]
 - [Oregon cave holds 12,000-year-old sewn materials](https://www.npr.org/2026/02/23/nx-s1-5714550/oregon-cave-holds-12-000-year-old-sewn-materials) [source: NPR, 2026]
 - [Ancient Arabians](https://share.google/UdzZDRFsvnUHwoyQP) [source: *The Ancients* podcast, 2026]
 - [Bronze Age DNA from Calabria reveals a distinct mountain community](https://phys.org/news/2025-12-bronze-age-dna-calabria-reveals.html) [source: *Phys.org* article, 2025]
