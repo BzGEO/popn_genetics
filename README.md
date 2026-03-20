@@ -12,6 +12,7 @@ Miscellaneous resources related to human population genetics / genetic genealogy
 - []() [source: ]
 -->
 
+- [Debate explodes over age of key South American archaeological site: New study argues Monte Verde is far younger than once thought, challenging when people arrived in the Americas](https://www.science.org/content/article/debate-explodes-over-age-key-south-american-archaeological-site) [source: *Science*, 2026]
 - [RootsTech Innovation and Tech Forum 2026](https://www.familysearch.org/en/rootstech/session/rootstech-innovation-and-tech-forum-2026) videos [source: *FamilySearch*, 2026]
 - [High-resolution genomic history of early medieval Europe](https://www.nature.com/articles/s41586-024-08275-2) [source: *Nature*, 2025]
 - [Ancient DNA connects large-scale migration with the spread of Slavs](https://www.nature.com/articles/s41586-025-09437-6) [source: *Nature*, 2025]
