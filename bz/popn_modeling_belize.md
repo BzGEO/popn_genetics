@@ -51,7 +51,7 @@
 | Smith | 16 | 4 | 2,080 | 0.590% | British in general |
 | Jones | 19 | 5 | 1,918 | 0.544% | Wales |
 | Tillett | 23 | 6 | 1,621 | 0.460% | England |
-* It is known that the Flowers surname came by by way of slavery. The male forebears of the Flowers family were known to be of West African extraction.
+*It is known that the Flowers surname came by by way of slavery. The male forebears of the Flowers family were known to be of West African extraction.
 
 ### Population: Flowers family
 * **1812**: 50 individuals (of approx. 3,000 inhabitants) -> assume 25 men, 25 women
