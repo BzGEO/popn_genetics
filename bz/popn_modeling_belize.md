@@ -30,7 +30,7 @@
 | **1960** | 90,505 | |
 | **1970** | 119,934 | |
 | **1980** | 145,353 | |
-| **1991** | 189,392 | *following the influx of refugees from C. American civil wars* |
+| **1991** | 189,392 | *following the influx of refugees from [C. American civil wars](https://en.wikipedia.org/wiki/Central_American_crisis)* |
 | **2000** | 246,538 | |
 | **2010** | 322,453 | |
 | **2017** | 387,879 | |
