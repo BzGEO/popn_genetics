@@ -22,7 +22,7 @@
 | **1790** | ~2,915 | *~2,212 people originally from the Mosquito Shore, so a ratio of 3:1 (Mosquito Shore: Bay Colony)*|
 | **1816** | 3,824 | |
 | **1823** | 4,107 | |
-| **1891** | 31,471 | *following the influx of refugees from the Caste War, which began in 1847*|
+| **1891** | 31,471 | *following the influx of refugees from the [Caste War](https://en.wikipedia.org/wiki/Caste_War_of_Yucat%C3%A1n), which began in 1847*|
 | **1901** | 37,179 | |
 | **1921** | 45,317 | |
 | **1931** | 51,347 | |
