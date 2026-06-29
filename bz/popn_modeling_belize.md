@@ -4,7 +4,7 @@
 ## Research questions
 * How do we model the growth of the **Flowers** family from a small founder population in 1787 to approximately 2,500 individuals with that surname in 2014?
 * Given that Flowers is the 4th most common *Creole-affiliated surname* in Belize (as well as the 9th most common surname nationally), how do the lessons learned from this research apply to other Creole family name groups like **Williams** (5th most common), **Young** (13th most common), **Smith** (16th most common), **Jones** (19th most common), or **Tillett** (23rd most common)?
-* How are members of the current generation of large Creole families linked back to founding patriarchs from the 18th Century? Who are the forebears of the Williams, Flowers, Young, Smith, Jones, and Tillett families?
+* How are members of the current generation of large Creole families linked back to founding patriarchs from the 18th Century? Who are the forebears of the Williams, Flowers, Young, Smith, Jones, and Tillett families (i.e., what are their specific names)?
 * To what extent can genetic data (i.e., [Y chromosome haplotyping](https://en.wikipedia.org/wiki/Human_Y-chromosome_DNA_haplogroup)) link members of these families to other representatives of those families living in other countries?
 * What are the connections of these numerically prominent surnames with the Mosquito Shore? Of these 6 surnames, were any present during the [public meeting](https://www.nationalassembly.gov.bz/history-of-the-legislature-of-belize/) affiliated with [Burnaby's Code](https://en.wikipedia.org/wiki/Burnaby%27s_Code)?
 
