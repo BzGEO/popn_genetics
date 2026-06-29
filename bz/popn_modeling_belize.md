@@ -43,14 +43,14 @@
 
 ***Sources**: 1786 and 1790 data from Bennett (2017), 1816 and 1823 data from Hadel (1974), 1891 and 1901 data from the British Honduras Census (1901), 1921-2010 data from the Statistical Institute of Belize (2012), 2017 data from the Statistical Institute of Belize (2017), and 2022 data from the Statistical Institute of Belize (2024)*
 
-| Surname | Nat'l rank | Rel. rank | Number | % | Origin |
+| Surname | Number | Percentage | Rel. rank | Nat'l rank | Origin |
 | --- | --- | --- | --- | --- | --- |
-| Williams | 5 | 1 | 3,068 | 0.871% | Wales |
-| Flowers | 9 | 2 | 2,487 | 0.706% | W. African* |
-| Young | 13 | 3 | 2,332 | 0.662% | Scottish |
-| Smith | 16 | 4 | 2,080 | 0.590% | British in general |
-| Jones | 19 | 5 | 1,918 | 0.544% | Wales |
-| Tillett | 23 | 6 | 1,621 | 0.460% | England |
+| Williams | 3,068 | 0.871% | 1 | 5 | Wales |
+| Flowers | 2,487 | 0.706% | 2 | 9 | W. Africa* |
+| Young | 2,332 | 0.662% | 3 | 13 | Scotland |
+| Smith | 2,080 | 0.590% | 4 | 16 | Britain in general |
+| Jones | 1,918 | 0.544% | 5 | 19 | Wales |
+| Tillett | 1,621 | 0.460% | 6 | 23 | England |
 
 *It is known that the Flowers surname came by by way of slavery. The male forebears of the Flowers family were known to be of West African extraction.
 
