@@ -6,7 +6,7 @@
 * Given that Flowers is the 4th most common Creole-affiliated surname in Belize (as well as the 9th most common surname nationally), how do the lessons learned from this research apply to other Creole family name groups like **Williams** (5th most common), **Young** (13th most common), **Smith** (16th most common), **Jones** (19th most common), or **Tillett** (23rd most common)?
 * How are members of the current generation of large Creole families linked back to founding patriarchs from the 18th Century? Who are the forebears of the Williams, Flowers, Young, Smith, Jones, and Tillett families?
 * To what extent can genetic data (i.e., Y chromosome haplotyping) link members of these families to other representatives of those families living in other countries?
-* What are the connections of these numerically prominent surnames with the Mosquito Shore? Of these 6 surnames, were any present during the public meeting affiliated with Burnaby's Code?
+* What are the connections of these numerically prominent surnames with the Mosquito Shore? Of these 6 surnames, were any present during the [public meeting](https://www.nationalassembly.gov.bz/history-of-the-legislature-of-belize/) affiliated with Burnaby's Code?
 
 ### Assumptions
 * The ~2,500 individuals in 2014 *with the surname Flowers* are only a fraction of the people descended from the original founder population. That is, because of how surnames are passed on, many more people will be descended from a founder population than possess their surnames.
@@ -52,7 +52,7 @@
 | Jones | 1,918 | 0.544% | 5 | 19 | Wales |
 | Tillett | 1,621 | 0.460% | 6 | 23 | England |
 
-*It is known that the Flowers surname came by by way of slavery. The male forebears of the Flowers family were known to be of West African extraction.
+*It is known that the Flowers surname came by by way of slavery (Bennett Murray 2017). The male forebears of the Flowers family were known to be of West African extraction.
 
 ### Population: Flowers family
 * **1812**: 50 individuals (of approx. 3,000 inhabitants) -> assume 25 men, 25 women
