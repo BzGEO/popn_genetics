@@ -43,12 +43,12 @@
 
 | Surname | National rank | Rel. rank | Number | % | Origin |
 | --- | --- | --- | --- | --- | --- |
-| Williams | | | | | |
-| Flowers | | | | | W. African* |
-| Young | | | | | Scottish |
-| Smith | | | | | |
-| Jones | | | | | |
-| Tillett | | | | | |
+| Williams | 5 | 1 | 3,068 | 0.871% | Wales |
+| Flowers | 9 | 2 | 2,487 | 0.706% | W. African* |
+| Young | 13 | 3 | 2,332 | 0.662% | Scottish |
+| Smith | 16 | 4 | 2,080 | 0.590% | British in general |
+| Jones | 19 | 5 | 1,918 | 0.544% | Wales |
+| Tillett | 23 | 6 | 1,621 | 0.460% | England |
 
 
 ### Population: Flowers family
