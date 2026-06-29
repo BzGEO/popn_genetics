@@ -43,7 +43,7 @@
 
 ***Sources**: 1786 and 1790 data from Bennett (2017), 1816 and 1823 data from Hadel (1974), 1891 and 1901 data from the British Honduras Census (1901), 1921-2010 data from the Statistical Institute of Belize (2012), 2017 data from the Statistical Institute of Belize (2017), and 2022 data from the Statistical Institute of Belize (2024)*
 
-| Surname | National rank | Rel. rank | Number | % | Origin |
+| Surname | Nat'l rank | Rel. rank | Number | % | Origin |
 | --- | --- | --- | --- | --- | --- |
 | Williams | 5 | 1 | 3,068 | 0.871% | Wales |
 | Flowers | 9 | 2 | 2,487 | 0.706% | W. African* |
