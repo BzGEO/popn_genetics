@@ -4,7 +4,9 @@
 ## Research questions
 * How do we model the growth of the **Flowers** family from a small founder population in 1787 to approximately 2,500 individuals with that surname in 2014?
 * Given that Flowers is the 4th most common Creole-affiliated surname in Belize (as well as the 9th most common surname nationally), how do the lessons learned from this research apply to other Creole family name groups like **Williams** (5th most common), **Young** (13th most common), **Smith** (16th most common), **Jones** (19th most common), or **Tillett** (23rd most common)?
-* How are members of the current generation of large Creole families linked back to founding patriarchs from the 18th Century? Who are the forebears of the Williams, Flowers, Young, Smith, Jones, and Tillett families? To what extent can genetic data (i.e., Y chromosome haplotyping) link members of these families to other representatives of those families living in other countries?
+* How are members of the current generation of large Creole families linked back to founding patriarchs from the 18th Century? Who are the forebears of the Williams, Flowers, Young, Smith, Jones, and Tillett families?
+* To what extent can genetic data (i.e., Y chromosome haplotyping) link members of these families to other representatives of those families living in other countries?
+* What are the connections of these numerically prominent surnames with the Mosquito Shore? Of these 6 surnames, were any present during the public meeting affiliated with Burnaby's Code?
 
 ### Assumptions
 * The ~2,500 individuals in 2014 *with the surname Flowers* are only a fraction of the people descended from the original founder population. That is, because of how surnames are passed on, many more people will be descended from a founder population than possess their surnames.
@@ -49,7 +51,7 @@
 | Smith | 16 | 4 | 2,080 | 0.590% | British in general |
 | Jones | 19 | 5 | 1,918 | 0.544% | Wales |
 | Tillett | 23 | 6 | 1,621 | 0.460% | England |
-
+* It is known that the Flowers surname came by by way of slavery. The male forebears of the Flowers family were known to be of West African extraction.
 
 ### Population: Flowers family
 * **1812**: 50 individuals (of approx. 3,000 inhabitants) -> assume 25 men, 25 women
@@ -73,6 +75,8 @@
 ## References
 
 * Belize Archives & Records Service (BARS). 2026. Census Index. Web page. https://archives.gov.bz/census-index/. Accessed 01/2026.
+
 * Hadel, J. 1974. Three Early Censuses - 1816, 1820, 1823 - of Belize. Belize Institute for Social Research and Action (BISRA). Issue no. 1. Belize City, Belize. 22 pp. https://drive.google.com/file/d/0B_eQWO64TxDbTVBCd094VG9FZ3M.
+
 * Statistical Institute of Belize (SIB). 2024. Census Key Findings Launch. Statistical Institute of Belize. Belmopan, Belize. PowerPoint presentation. 48 pp. https://sib.org.bz/wp-content/uploads/CensusLaunch2022.pdf. Accessed 01/2026.
  
