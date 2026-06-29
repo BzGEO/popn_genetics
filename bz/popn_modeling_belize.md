@@ -1,8 +1,9 @@
 # Population Modeling: the Flowers Family of Belize
-*Last updated: 22.01.2026*
+*Last updated: 29.06.2026*
 
 ## Research questions
 * How do we model the growth of the Flowers family from a small founder population in 1787 to approximately 2,500 individuals with that surname in 2014?
+* Given that Flowers is the 4th most common Creole-affiliated surname in Belize (as well as the 9th most common surname nationally), how do the lessons learned from this research apply to other Creole family name groups like Williams (5th most common), Young (13th most common), Smith (16th most common), Jones (19th most common), or Tillett (23rd most common)?
 
 ### Assumptions
 * The ~2,500 individuals in 2014 *with the surname Flowers* are only a fraction of the people descended from the original founder population. That is, because of how surnames are passed on, many more people will be descended from a founder population than possess their surnames.
