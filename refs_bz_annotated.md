@@ -1,5 +1,8 @@
 # References (annotated)
 
+> [!NOTE]
+> In terms of annotations, the following includes notes mainly related to my own genealogical research.
+
 * Belize Archives & Records Service (BARS). 2026. Census Index. Web page. https://archives.gov.bz/census-index/. Accessed 01/2026.
 
 * Bennett Murray, S. 2010. [The First Parish Register of Belize, 1794-1810, and the First Four Censuses, 1816-1826](https://www.amazon.com/Parish-Register-1794-1810-Censuses-1816-1826/dp/0806354828). Clearfield Company. Baltimore, Maryland. ISBN 978-0806354828. 292 pp.
