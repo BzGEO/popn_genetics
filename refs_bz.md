@@ -9,12 +9,8 @@
 * Bennett Murray, S. 2012. [Third Parish Registers of Belize, 1828-1841](https://www.amazon.com/Registers-1828-1841-Yarborough-Newspapers-Advertiser/dp/0806355808). Clearfield Company. Baltimore, Maryland. ISBN 978-0806355801. 426 pp.
 
 * Bennett Murray, S. 2017. [They Came to Belize, 1750-1810](https://www.amazon.com/They-Came-Belize-1750-1810-Compiled/dp/0806358408). Clearfield Company. Baltimore, Maryland. ISBN 978-0806358406. 452 pp.
-  * Includes information not just on the Bay colony (present day Belize), but also on the Mosquito Shore (located on the Caribbean coasts of present day Nicaragua and Honduras).
-  * Pp. 185-188: Includes information on the origins of the Flowers family, from their enslavement in the Mosquito Shore, and their relocation to the Bay colony in 1787 along with other settlers.
-  * Pp. 368-370: Reproduces the minutes of the 6 June 1797 public meeting where the Flowers Bank negros cast the deciding votes in favor of remaining and fighting the eventual Spanish attack (and thwarted invation), which came in September 1798.
 
 * Bennett Murray, S. 2022. [600+ Wills & Administrations of Belize, 1750-1800s](https://www.amazon.com/600-Wills-Administrations-Belize-1750-1800s/dp/0806359447). Clearfield Company. Baltimore, Maryland. ISBN 978-0806359441. 680 pp.
-  * Includes information on the location of William Cherrington and Phoebe Flowers' home in southside Belize City.
 
 * Campbell, M.C. 2011. [Becoming Belize: A History of an Outpost of Empire Searching for Identity, 1528-1823](https://www.amazon.com/dp/9766402469). University of the West Indies Press. Kingston, Jamaica. ISBN 978-976-640-246-4. 425 pp.
 
@@ -35,8 +31,6 @@
 * Raff, J. 2022. [Origin: A Genetic History of the Americas](https://www.amazon.com/Audible-Origin-Genetic-History-Americas/dp/B09KFC9DWG). Hachette Book Group. New York. ISBN 9781538749715. 328 pp.
 
 * Robinson, S.J. 2006. Peopling Belize: Chapters in Migration. National Institute of Culture and History (NICH). Print Belize. Belmopan, Belize. ISBN 976-95131-7-2. 126 pp.
-  * Pp. 13-26: *Chapter 2: The Aftermath of the Revolution* addresses historical ties to British "loyalists" who came to colonial Belize from the American colonoes following the American War of Independence. Specific surnames are indicated, as well as their origins in the American colonies.
-  * That chapter also briefly covers the evacuation of the Mosquito Shore (which is covered in greater detail in other books, including Campbell, 2011).
 
 * Statistical Institute of Belize (SIB). 2024. Census Key Findings Launch. Statistical Institute of Belize. Belmopan, Belize. PowerPoint presentation. 48 pp. https://sib.org.bz/wp-content/uploads/CensusLaunch2022.pdf. Accessed 01/2026.
 
