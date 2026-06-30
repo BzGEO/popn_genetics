@@ -1,5 +1,5 @@
 # Population Modeling: the Flowers Family of Belize
-*Last updated: 29.06.2026*
+*Last updated: 🕚 30.06.2026*
 
 ## Research questions
 * How do we model the growth of the **Flowers** family from a small founder population in 1787 to approximately 2,500 individuals with that surname in 2014?
@@ -71,7 +71,9 @@
 * A [simple model](https://docs.google.com/spreadsheets/d/1toAYGXuRx3_Ak5Y6yA3Kb7PinnANQxed/edit?usp=sharing&ouid=105196094871740597688&rtpof=true&sd=true) tracking the growth of the Flowers family has been constructed, estimating that the family doubles every two generations, taking the population from approximately 50 individuals in 1800 to approx. 2,400 individuals by 2020. For each generation, we estimate a male / female sex ratio of 1:1. Only the male members of the population are estimated to pass along the Flowers surname.
 
 ## Pending activities
-* Organize the various spreadsheets and documents, mainly generated in 2014
+* Organize the various spreadsheets and documents, mainly generated in 2014 ➡️
+  * The [master spreadsheet](https://github.com/BzGEO/popn_genetics/blob/main/bz/_docs/surnames/bz_surnames_places_v1_2014.xlsx) with surnames sorted by location has been uploaded
+  * Pending: Upload shapefile with the point locations of the settlements extant in 2014, and corresponding to the aforementioned spreadsheet
 
 ## References
 
