@@ -1,4 +1,4 @@
-# References
+# References (annotated)
 
 * Belize Archives & Records Service (BARS). 2026. Census Index. Web page. https://archives.gov.bz/census-index/. Accessed 01/2026.
 
