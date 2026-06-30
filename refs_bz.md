@@ -16,7 +16,7 @@
 
 * Foster, B. (Ed.). 1997. [Warlords and Maize Men: A Guide to the Maya Sites of Belize](https://www.amazon.com/Warlords-maize-men-guide-Belize/dp/9686233067). Cubola Productions. Benque Viejo del Carmen, Belize. ISBN 968-6223-06-7. 82 pp.
 
-* Hadel, J. 1974. Three Early Censuses - 1816, 1820, 1823 - of Belize. Belize Institute for Social Research and Action (BISRA). Issue no. 1. Belize City, Belize. 22 pp. https://drive.google.com/file/d/0B_eQWO64TxDbTVBCd094VG9FZ3M.
+* Hadel, J. 1974. [Three Early Censuses - 1816, 1820, 1823 - of Belize](https://drive.google.com/file/d/0B_eQWO64TxDbTVBCd094VG9FZ3M). Belize Institute for Social Research and Action (BISRA). Issue no. 1. Belize City, Belize. 22 pp.
 
 * Heusner, J.A. 2016. [The Life, Times, and Legacy of Dr. Karl Stanislaus Heusner](https://books.google.com.gt/books/about/The_Life_Times_Legacy_of_Dr_Karl_Stanisl.html?id=mHE7ngAACAAJ&redir_esc=y). BRC Printing. Benque Viejo del Carmen, Belize. ISBN 978-0-692-75748-2. 206 pp.
 
