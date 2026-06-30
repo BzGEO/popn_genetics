@@ -46,7 +46,7 @@
 | Surname | Number | Percentage | Rel. rank | Nat'l rank | Origin |
 | --- | --- | --- | --- | --- | --- |
 | Williams | 3,068 | 0.871% | 1 | 5 | Wales |
-| Flowers | 2,487 | 0.706% | 2 | 9 | W. Africa* |
+| **Flowers** | 2,487 | 0.706% | 2 | 9 | W. Africa* |
 | Young | 2,332 | 0.662% | 3 | 13 | Scotland |
 | Smith | 2,080 | 0.590% | 4 | 16 | Britain in general |
 | Jones | 1,918 | 0.544% | 5 | 19 | Wales |
@@ -69,6 +69,8 @@
 
 **Flowers population: Modeling**
 * A [simple model](https://docs.google.com/spreadsheets/d/1toAYGXuRx3_Ak5Y6yA3Kb7PinnANQxed/edit?usp=sharing&ouid=105196094871740597688&rtpof=true&sd=true) tracking the growth of the Flowers family has been constructed, estimating that the family doubles every two generations, taking the population from approximately 50 individuals in 1800 to approx. 2,400 individuals by 2020. For each generation, we estimate a male / female sex ratio of 1:1. Only the male members of the population are estimated to pass along the Flowers surname.
+
+<img width="1861" height="703" alt="image" src="https://github.com/user-attachments/assets/cac3d0b5-2cc4-4d7c-85e1-e39e5bcbcb20" />
 
 ## Pending activities
 * Organize the various spreadsheets and documents, mainly generated in 2014 ➡️
