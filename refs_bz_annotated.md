@@ -41,7 +41,7 @@
 * Statistical Institute of Belize (SIB). 2024. Census Key Findings Launch. Statistical Institute of Belize. Belmopan, Belize. PowerPoint presentation. 48 pp. https://sib.org.bz/wp-content/uploads/CensusLaunch2022.pdf. Accessed 01/2026.
 
 * Udz, S. (Ed.). 2024. [English-Kriol Dictionary](https://drive.google.com/file/d/1321cAttST-amTWwIyDGVyOc__oeN8gnb/view). Second edition. National Institute of Culture and History (NICH). BRC Printing. Benque Viejo del Carmen, Belize. ISBN 978-976-95165-1-9. 648 pp.
-  * Overall, this volume is a great reference on the Kriol (Creole) language.
+  * Overall, this volume is a great reference on the Kriol (Creole) language. This is also complementary to Dr. Colville Young's compilation of Belizean Creole proverbs.
 
 * Vernon, L. 2013. [A Walk Through Old Belize](https://drive.google.com/file/d/1QyXC0WpG5xYspzelSB1Q62aFOYD6veIx/view). National Institute of Culture and History (NICH). Print Belize. Belmopan, Belize. ISBN 978-976-8197-84-9. 55 pp.
   * p. 26: Discusses the initiation of the construction of St. John's Cathedral in 1802 (and its consecration in 1826). The first group of Belize-born Cherringtons (children of William Taylor Cherrington and Phoebe Flowers) were noted in the parish registers compiled by S. Bennett Murray to have been baptized Anglican at St. John's Cathedral.
