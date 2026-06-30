@@ -41,7 +41,7 @@
   * pp. 13-26: *Chapter 2: The Aftermath of the Revolution* addresses historical ties to British "loyalists" who came to colonial Belize from the American colonoes following the American War of Independence. Specific surnames are indicated, as well as their origins in the American colonies.
   * That chapter also briefly covers the evacuation of the Mosquito Shore (which is covered in greater detail in other books, including Campbell, 2011).
 
-* Statistical Institute of Belize (SIB). 2024. Census Key Findings Launch. Statistical Institute of Belize. Belmopan, Belize. PowerPoint presentation. 48 pp. https://sib.org.bz/wp-content/uploads/CensusLaunch2022.pdf. Accessed 01/2026.
+* Statistical Institute of Belize (SIB). 2024. [Census Key Findings Launch](https://sib.org.bz/wp-content/uploads/CensusLaunch2022.pdf). Statistical Institute of Belize. Belmopan, Belize. PowerPoint presentation. 48 pp.
 
 * Udz, S. (Ed.). 2024. [English-Kriol Dictionary](https://drive.google.com/file/d/1321cAttST-amTWwIyDGVyOc__oeN8gnb/view). Second edition. National Institute of Culture and History (NICH). BRC Printing. Benque Viejo del Carmen, Belize. ISBN 978-976-95165-1-9. 648 pp.
   * Overall, this volume is a great reference on the Kriol (Creole) language. This is also complementary to Dr. Colville Young's compilation of Belizean Creole proverbs.
