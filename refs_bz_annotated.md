@@ -10,8 +10,8 @@
 
 * Bennett Murray, S. 2017. [They Came to Belize, 1750-1810](https://www.amazon.com/They-Came-Belize-1750-1810-Compiled/dp/0806358408). Clearfield Company. Baltimore, Maryland. ISBN 978-0806358406. 452 pp.
   * Includes information not just on the Bay colony (present day Belize), but also on the Mosquito Shore (located on the Caribbean coasts of present day Nicaragua and Honduras).
-  * Pp. 185-188: Includes information on the origins of the Flowers family, from their enslavement in the Mosquito Shore, and their relocation to the Bay colony in 1787 along with other settlers.
-  * Pp. 368-370: Reproduces the minutes of the 6 June 1797 public meeting where the Flowers Bank negros cast the deciding votes in favor of remaining and fighting the eventual Spanish attack (and thwarted invation), which came in September 1798.
+  * pp. 185-188: Includes information on the origins of the Flowers family, from their enslavement in the Mosquito Shore, and their relocation to the Bay colony in 1787 along with other settlers.
+  * pp. 368-370: Reproduces the minutes of the 6 June 1797 public meeting where the Flowers Bank negros cast the deciding votes in favor of remaining and fighting the eventual Spanish attack (and thwarted invation), which came in September 1798.
 
 * Bennett Murray, S. 2022. [600+ Wills & Administrations of Belize, 1750-1800s](https://www.amazon.com/600-Wills-Administrations-Belize-1750-1800s/dp/0806359447). Clearfield Company. Baltimore, Maryland. ISBN 978-0806359441. 680 pp.
   * Includes information on the location of William Cherrington and Phoebe Flowers' home in southside Belize City.
@@ -35,11 +35,15 @@
 * Raff, J. 2022. [Origin: A Genetic History of the Americas](https://www.amazon.com/Audible-Origin-Genetic-History-Americas/dp/B09KFC9DWG). Hachette Book Group. New York. ISBN 9781538749715. 328 pp.
 
 * Robinson, S.J. 2006. Peopling Belize: Chapters in Migration. National Institute of Culture and History (NICH). Print Belize. Belmopan, Belize. ISBN 976-95131-7-2. 126 pp.
-  * Pp. 13-26: *Chapter 2: The Aftermath of the Revolution* addresses historical ties to British "loyalists" who came to colonial Belize from the American colonoes following the American War of Independence. Specific surnames are indicated, as well as their origins in the American colonies.
+  * pp. 13-26: *Chapter 2: The Aftermath of the Revolution* addresses historical ties to British "loyalists" who came to colonial Belize from the American colonoes following the American War of Independence. Specific surnames are indicated, as well as their origins in the American colonies.
   * That chapter also briefly covers the evacuation of the Mosquito Shore (which is covered in greater detail in other books, including Campbell, 2011).
 
 * Statistical Institute of Belize (SIB). 2024. Census Key Findings Launch. Statistical Institute of Belize. Belmopan, Belize. PowerPoint presentation. 48 pp. https://sib.org.bz/wp-content/uploads/CensusLaunch2022.pdf. Accessed 01/2026.
 
 * Udz, S. (Ed.). 2024. [English-Kriol Dictionary](https://drive.google.com/file/d/1321cAttST-amTWwIyDGVyOc__oeN8gnb/view). Second edition. National Institute of Culture and History (NICH). BRC Printing. Benque Viejo del Carmen, Belize. ISBN 978-976-95165-1-9. 648 pp.
+ * This volume is a great reference on the Kriol (Creole) language.
 
 * Vernon, L. 2013. [A Walk Through Old Belize](https://drive.google.com/file/d/1QyXC0WpG5xYspzelSB1Q62aFOYD6veIx/view). National Institute of Culture and History (NICH). Print Belize. Belmopan, Belize. ISBN 978-976-8197-84-9. 55 pp.
+ * p. 26: Discusses the initiation of the construction of St. John's Cathedral in 1802 (and its consecration in 1826). The first group of Belize-born Cherringtons (children of William Taylor Cherrington and Phoebe Flowers) were noted in the parish registers compiled by S. Bennett Murray to have been baptized Anglican at St. John's Cathedral.
+ * p. 33: Indicates that the initial Wesley Methodist Church was constructed in Belize City in 1829, prior to being destroyed by fire in 1863 prior to reconstruction in 1864-1866 (and another destruction during the 1931 cyclone). Various members of the Cherrington family were married at this church prior to the main branch of the family becoming Catholic in the late 1800s.
+ * p. 34: Indicates that the Yarborough ('Yabra') Cemetery was opened in 1792. Based on one of the aforementioned Bennett parish register volumes, it seems probable that William Taylor Cherrington (forebear of the Belize branch of Cherringtons) was buried in the Yarborough Cemetery following his passing in the 1830s.
