@@ -34,6 +34,6 @@
 
 * Statistical Institute of Belize (SIB). 2024. Census Key Findings Launch. Statistical Institute of Belize. Belmopan, Belize. PowerPoint presentation. 48 pp. https://sib.org.bz/wp-content/uploads/CensusLaunch2022.pdf. Accessed 01/2026.
 
-* Udz, S. (Ed.). 2024. [English-Kriol Dictionary](https://drive.google.com/file/d/1321cAttST-amTWwIyDGVyOc__oeN8gnb/view). Second edition. National Institute of Culture and History (NICH). BRC Printing. Benque Viejo del Carmen, Belize. ISBN 978-976-95165-1-9. 
+* Udz, S. (Ed.). 2024. [English-Kriol Dictionary](https://drive.google.com/file/d/1321cAttST-amTWwIyDGVyOc__oeN8gnb/view). Second edition. National Institute of Culture and History (NICH). BRC Printing. Benque Viejo del Carmen, Belize. ISBN 978-976-95165-1-9. 648 pp.
 
 * Vernon, L. 2013. [A Walk Through Old Belize](https://drive.google.com/file/d/1QyXC0WpG5xYspzelSB1Q62aFOYD6veIx/view). National Institute of Culture and History (NICH). Print Belize. Belmopan, Belize. ISBN 978-976-8197-84-9. 55 pp.
